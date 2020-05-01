@@ -1,5 +1,6 @@
 # jwt-auth
--reactjs-sequelize-node-mysql-protect-API
+-reactjs-sequelize-node-mysql-protect-API-signup-signin  
+-show user details
 ## installation
 -Download or clone the project  
 -cd jwt-auth  
